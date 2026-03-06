@@ -289,4 +289,4 @@ The protocol implements a multi-tiered authority system with distinct permission
 
 - **Audit Reports**: [Jupiter Documentation](https://github.com/jup-ag/docs/tree/main/static/files/audits)
 - **Bug Bounty**: Contact security@fluid.io and security@jup.ag for responsible disclosure
-- **Security Best Practices**: All programs undergo rigorous testing and multiple security audits before deployment
+- **Security Best Practices**: All programs undergo rigorous testing and multiple security audits before deployment.
